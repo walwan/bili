@@ -42,3 +42,9 @@ compiler.jar
 *.otf
 *.woff
 *.woff2
+
+# Include settings.json
+!settings.json
+
+# Ignore dolphin settings
+.directory
